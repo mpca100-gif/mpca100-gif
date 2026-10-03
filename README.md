@@ -1,16 +1,15 @@
 ## Hi there 👋
+# Hi, I'm Siddharth Singh Sengar
 
-<!--
-**mpca100-gif/mpca100-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer (MERN, Next.js, TypeScript) | Building RAG/LLM apps | Targeting SDE roles
 
-Here are some ideas to get you started:
+## Tech
+JavaScript · TypeScript · React · Next.js · Node.js · MongoDB · Docker · AWS · LangChain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **Employee Management System**: Next.js, NextAuth v5, MongoDB, role-based access, Docker + AWS
+- **RAG Pipeline**: LangChain-based document Q&A
+- **Distributed URL Shortener**: <one line on design>
+
+## Contact
+[LinkedIn](https://linkedin.com/in/siddharth-singh-sengar-859144211) · mpca100@gmail.com
